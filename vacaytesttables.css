@@ -1,0 +1,40 @@
+
+body {
+  font-family: arial;
+  background-color: #ffa64d;
+  text-align: center;
+}
+
+header {
+  background-image: url("http://www.androidguys.com/wp-content/uploads/2016/01/6982647-sunset-over-sea.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 10px;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+h1 {
+  text-align: auto;
+  font-size: 38pt;
+}
+
+img {
+  display: block;
+  min-width:450px;
+  max-width:450px;
+  max-heigth:450px;
+  min-height:30
+  width: auto;
+  heigth: auto;
+}
+
+footer {
+  background: black;
+  color: white;
+}
+
+div {
+  padding: 30px;
+}
